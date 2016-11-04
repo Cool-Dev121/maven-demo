@@ -15,7 +15,7 @@ The project includes a dependency on *r-tree*, a main class `Thing` and a test c
 
 
 ##Build 
-To build from the command line:
+To build from the command line (to produce a jar for instance):
 
     cd maven-demo
     mvn clean install
